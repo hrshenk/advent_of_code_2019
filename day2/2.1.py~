@@ -1,0 +1,10 @@
+import numpy as np
+
+class Computer:
+    def init(self, program):
+        self.program = program
+
+    def eval(self):
+
+
+with open("input.txt") as f:

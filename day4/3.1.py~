@@ -1,0 +1,5 @@
+# First attempt will be to brute force it.without any optimizations... lol
+
+def count_valids(x, y):
+    valids = set()
+    for i in range(x, y):
